@@ -45,4 +45,4 @@ Startup persistence
 Place stub in appdata
 Add to startup registry
 
-#tokengrabber
+#token-grabber
